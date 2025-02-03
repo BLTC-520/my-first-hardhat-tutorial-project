@@ -10,7 +10,7 @@ To run this repo locally:
 - npx hardhat node
 
 Go to a new terminal 
-- npx hardhat run scripts/deploy.js --network localhost
+- npx hardhat run scripts/deploy.js --network sepolia
 
 - cd frontend
 - npm install
